@@ -1,0 +1,5 @@
+12345678,starbucks,20230630,cafe,hello,false
+1234567,starbucks,20230629,cafe,hello,false
+12345789,starbucks,20231207,cafe,hello,false
+123456789,starbucks,20231204,cafe,hello,true
+123124123,twosome,20242512,cafe,hello,false
